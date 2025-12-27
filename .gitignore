@@ -1,0 +1,31 @@
+
+---
+
+## **2. .gitignore**
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env/
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Power BI
+*.pbix
+
+# Data files (optional: keep if needed)
+*.csv
+*.xlsx
+
+# OS Files
+.DS_Store
+Thumbs.db
